@@ -1,0 +1,7 @@
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+/out/
+genetic_algorithm_java.iml
