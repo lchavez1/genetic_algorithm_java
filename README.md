@@ -1,6 +1,6 @@
 # genetic_algorithm_java 🧬
 
-This is the genetic algorithm with Java.
+This is the genetic algorithm with Java to solve One Max problem.
 
 ### What is GA? 🧬
 
